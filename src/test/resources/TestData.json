@@ -1,0 +1,20 @@
+{
+  "test1": {
+    "name": "most",
+    "email": "AS@gg.com",
+    "password": "12345",
+    "days": "1",
+    "months": "1",
+    "years": "1",
+    "fristname": "Most",
+    "lastname": "saad",
+    "company": "Giza",
+    "address1": "123140",
+    "address2": "123250",
+    "state": "gg",
+    "city": "gg",
+    "zipcode": "12345",
+    "mobile": "000111"
+     }
+
+}
